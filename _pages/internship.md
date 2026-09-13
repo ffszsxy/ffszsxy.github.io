@@ -1,4 +1,5 @@
 ---
+title:
 permalink: /internship/
 author_profile: true
 ---
