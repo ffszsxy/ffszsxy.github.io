@@ -1,4 +1,5 @@
 ---
+title:
 permalink: /honor/
 author_profile: true
 ---
