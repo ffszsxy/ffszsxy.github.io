@@ -3,8 +3,6 @@ permalink: /education/
 author_profile: true
 ---
 
-## Education
-
 ### Nanjing University
 
 **M.A. in Journalism**  
