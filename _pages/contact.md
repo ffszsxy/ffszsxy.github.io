@@ -8,8 +8,6 @@ If you are interested in my research or would like to get in touch, please feel 
 
 **Email:** zhengguodai@smail.nju.edu.cn
 
-### WeChat
-
-You can also contact me on WeChat:
+**WeChat:**
 
 ![WeChat QR Code](/images/wechat-qr.jpg)
