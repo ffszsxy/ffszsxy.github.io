@@ -23,7 +23,7 @@ repository               : "ffszsxy/ffszsxy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "照片.jpg"
   name             : "Dai Zhengguo"
   pronouns         : "she/her"  
   bio              : "Graduate student in Journalism"
