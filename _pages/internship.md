@@ -1,22 +1,18 @@
 ---
-
-title: "Internship"
 permalink: /internship/
 author_profile: true
---------------------
-
-## Internship
+---
 
 ### Jiangsu Broadcasting Corporation
 
-**Internship**
-Jiangsu, China
+**Intern**  
+Jiangsu, China，2025.07-08
 
 Worked on media-related tasks and gained practical experience in news production and media operations.
 
 ### The Beijing News
 
-**Internship**
-Beijing, China
+**Intern**  
+Beijing, China，2025.09-12
 
-Worked on platform operations and gained experience in digital news production and distribution.
+Worked on platform operations and gained experience in digital news production and content distribution.
